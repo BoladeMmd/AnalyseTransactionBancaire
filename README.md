@@ -46,7 +46,10 @@ Producer → Kafka → Consumer → PostgreSQL → Power BI
 ## DASHBOADS
 **1ere Page**
 
-La premiere page resume les transactions de facon general 
+<img width="633" height="341" alt="image" src="https://github.com/user-attachments/assets/adb57b8f-3529-4d22-aec6-b15cec423ce7" />
+
+
+
 
 
 ## ▶️ Lancer le projet
