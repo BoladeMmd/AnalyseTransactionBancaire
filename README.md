@@ -17,10 +17,15 @@ Ce projet met en œuvre une architecture complète de traitement de données, al
 ## 🎯 Objectifs
 
 -Simuler un flux de transactions bancaires en temps réel
+
 -Mettre en place un pipeline de traitement avec Kafka
+
 -Implémenter une logique simple de détection de fraude
+
 -Stocker les données dans une base relationnelle
+
 -Construire des dashboards interactifs pour l’analyse
+
 
 ## 🧱 Architecture
 Producer → Kafka → Consumer → PostgreSQL → Power BI
