@@ -44,7 +44,7 @@ Producer → Kafka → Consumer → PostgreSQL → Power BI
 
 
 ## DASHBOADS
-**1ere Page**
+**Page 1**
 
 <img width="633" height="341" alt="image" src="https://github.com/user-attachments/assets/adb57b8f-3529-4d22-aec6-b15cec423ce7" />
 
@@ -63,6 +63,34 @@ Il permet d’identifier rapidement :
 
 
 Il constitue une base essentielle pour la surveillance et la détection d’anomalies dans les flux financiers.
+
+
+**Page 2**
+
+
+<img width="604" height="340" alt="image" src="https://github.com/user-attachments/assets/72bb0d6a-4196-4959-87b7-a7ddef531dd8" />
+
+
+
+**📊 Interprétation du Dashboard 2 : Vue globale des transactions frauduleuses**
+
+Ce tableau de bord offre une vue d’ensemble de l’activité frauduleuse détectée dans les flux de transactions.
+
+Il permet d’identifier rapidement :
+
+**les utilisateurs les plus frauduleux (ex. user_7, user_21)**
+
+**le nombre total de transactions frauduleuses (plus de 807M)**
+
+**les zones géographiques dominantes (New York, Londres, Paris, Dakar, Dubaï, Moscou, Pékin)**
+
+**le montant global des fraudes (639,75M)**
+
+👉 Cette visualisation met en évidence l’ampleur du phénomène et fournit des indicateurs clés pour la supervision et la prévention.
+
+
+
+
 
 
 
