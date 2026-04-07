@@ -78,15 +78,15 @@ Ce tableau de bord offre une vue d’ensemble de l’activité frauduleuse déte
 
 Il permet d’identifier rapidement :
 
-**les utilisateurs les plus frauduleux (ex. user_7, user_21)**
+- **les utilisateurs les plus frauduleux (ex. user_7, user_3-)**
 
-**le nombre total de transactions frauduleuses (plus de 807M)**
+- **le nombre total de transactions frauduleuses (plus de 807M)**
 
-**les zones géographiques dominantes (New York, Londres, Paris, Dakar, Dubaï, Moscou, Pékin)**
+- **les zones géographiques dominantes (New York, Londres, Paris, Dakar, Dubaï, Moscou, Pékin)**
 
-**le montant global des fraudes (639,75M)**
+- **le montant global des fraudes (639,75M)**
 
-👉 Cette visualisation met en évidence l’ampleur du phénomène et fournit des indicateurs clés pour la supervision et la prévention.
+Cette visualisation met en évidence l’ampleur du phénomène et fournit des indicateurs clés pour la supervision et la prévention.
 
 
 
