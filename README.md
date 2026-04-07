@@ -31,7 +31,7 @@ Ce projet met en œuvre une architecture complète de traitement de données, al
 Producer → Kafka → Consumer → PostgreSQL → Power BI
 
 
--**Producer** : Génère des données de transaction  
+- **Producer** : Génère des données de transaction  
 - **Kafka** : diffuse les données en temps réel  
 - **Consumer** : traite les données et détecte les fraudes potentielles   
 - **PostgreSQL** : stocke les données historiques  
