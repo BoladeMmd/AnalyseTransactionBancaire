@@ -53,17 +53,7 @@ Producer → Kafka → Consumer → PostgreSQL → Power BI
 
 Ce tableau de bord offre une vue d’ensemble de l’activité des transactions bancaires en temps réel.
 
-- **Flux de transactions dans le temps**
-
-- **Transactions par région**
-
-- **Nombre de transactions par type**
-
-- **Montant des transactions par heure**
-
-**🎯 Conclusion**
-
-Ce dashboard permet d’identifier rapidement :
+Il permet d’identifier rapidement :
 
 - **les périodes d’activité élevée**
 
