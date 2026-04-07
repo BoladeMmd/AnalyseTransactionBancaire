@@ -66,8 +66,11 @@ Ce tableau de bord offre une vue d’ensemble de l’activité des transactions 
 Ce dashboard permet d’identifier rapidement :
 
 les périodes d’activité élevée
+
 les zones géographiques dominantes
+
 les types de transactions les plus utilisés
+
 
 Il constitue une base essentielle pour la surveillance et la détection d’anomalies dans les flux financiers.
 
