@@ -5,12 +5,8 @@ Ce projet consiste à concevoir et implémenter une plateforme de surveillance d
 
 Le système repose sur Apache Kafka pour la gestion des flux de données, permettant de transmettre en continu les transactions générées par un producteur vers un consommateur. Ce dernier applique des règles simples de détection de fraude avant de stocker les données dans une base PostgreSQL pour un usage analytique et historique.
 
-Les données sont ensuite exploitées dans Power BI, où plusieurs tableaux de bord interactifs ont été conçus pour suivre en temps quasi réel :
+Les données sont ensuite exploitées dans Power BI, où plusieurs tableaux de bord interactifs ont été conçus pour suivre en temps quasi réel les transactions bancaires.
 
-le volume des transactions,
-les montants échangés,
-la répartition par type,
-et les transactions frauduleuses.
 
 Ce projet met en œuvre une architecture complète de traitement de données, allant de l’ingestion à la visualisation, en passant par le stockage et l’analyse.
 
