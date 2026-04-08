@@ -114,8 +114,9 @@ Cette vue croisée facilite la détection d’anomalies comportementales et la p
 
 
 
-## Structure de repertoire du projet 
+## Structure de repertoire du projet
 
+```bash
 projet_banking/
 │
 ├── docker/
@@ -131,7 +132,7 @@ projet_banking/
 │
 └── README.md
 
-
+```
 
 
 
