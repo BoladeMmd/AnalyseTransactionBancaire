@@ -140,7 +140,6 @@ projet_banking/
 
 
 
-```bash
 
 1- Lancer kakfa et zookeeper
 
