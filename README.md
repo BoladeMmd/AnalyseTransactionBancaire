@@ -113,7 +113,7 @@ Cette vue croisée facilite la détection d’anomalies comportementales et la p
 ## Structure de repertoire du projet
 
 ```bash
-projet_banking/
+AnalyseTransactionBancaire/
 │
 ├── docker/
 │   └── docker-compose.yml
