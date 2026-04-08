@@ -78,7 +78,7 @@ Ce tableau de bord offre une vue d’ensemble de l’activité frauduleuse déte
 
 Il permet d’identifier rapidement :
 
-- **les utilisateurs les plus frauduleux (ex. user_7, user_3-)**
+- **les utilisateurs les plus frauduleux (ex. user_7, user_36)**
 
 - **le nombre total de transactions frauduleuses (plus de 807M)**
 
