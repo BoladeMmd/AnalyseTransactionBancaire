@@ -138,9 +138,18 @@ projet_banking/
 
 ## ▶️ Lancer le projet
 
+
+
 ```bash
+
+1- Lancer kakfa et zookeeper
+cd /docker
 docker-compose up -d
+
+2- Lancer le producer
 python3 producer/producer.py
+
+3-Lancer le consumer 
 python3 consumer/consumer.py
 
 ```
