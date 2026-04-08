@@ -143,16 +143,25 @@ projet_banking/
 ```bash
 
 1- Lancer kakfa et zookeeper
-cd /docker
+
+```bash
+cd docker
 docker-compose up -d
+```
 
 2- Lancer le producer
+
+```bash
 python3 producer/producer.py
-
-3-Lancer le consumer 
-python3 consumer/consumer.py
-
 ```
+3-Lancer le consumer
+
+```bash
+python3 consumer/consumer.py 
+```
+
+4- Ouvrir PowerBI pour la visualisation 
+
 
 ## Auteur 
 **Boladé MAMADOU**
