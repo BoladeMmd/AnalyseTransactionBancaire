@@ -144,7 +144,6 @@ projet_banking/
 1- Lancer kakfa et zookeeper
 
 ```bash
-cd docker
 docker-compose up -d
 ```
 
