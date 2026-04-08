@@ -89,6 +89,27 @@ Il permet d’identifier rapidement :
 Cette visualisation met en évidence l’ampleur du phénomène et fournit des indicateurs clés pour la supervision et la prévention.
 
 
+**Page 3**
+
+<img width="511" height="337" alt="image" src="https://github.com/user-attachments/assets/cb24d20c-b376-4e38-9e5c-ce40c9591481" />
+
+
+
+**📊 Interprétation du Dashboard 4 : Analyse croisée des fraudes et des activités**
+
+Ce tableau de bord met en parallèle les comportements normaux et frauduleux dans les flux de transactions.
+
+Il permet d’identifier rapidement :
+
+- **les heures d’activité frauduleuse (concentrées autour du 5 avril)**
+
+- **les utilisateurs les plus actifs (user_37 en tête)**
+
+- **les types de transactions les plus exposés à la fraude (transferts et retraits)**
+
+- **les zones géographiques les plus affluentes en volume (New York, Paris, Londres, Dakar)**
+
+Cette vue croisée facilite la détection d’anomalies comportementales et la priorisation des zones à surveiller.
 
 
 
