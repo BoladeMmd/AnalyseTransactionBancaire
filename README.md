@@ -95,7 +95,7 @@ Cette visualisation met en évidence l’ampleur du phénomène et fournit des i
 
 
 
-**📊 Interprétation du Dashboard 4 : Analyse croisée des fraudes et des activités**
+**📊 Interprétation du Dashboard 3 : Analyse croisée des fraudes et des activités**
 
 Ce tableau de bord met en parallèle les comportements normaux et frauduleux dans les flux de transactions.
 
