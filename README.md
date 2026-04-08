@@ -142,3 +142,9 @@ projet_banking/
 docker-compose up -d
 python3 producer/producer.py
 python3 consumer/consumer.py
+
+```
+
+## Auteur 
+**Boladé MAMADOU**
+ 
