@@ -114,6 +114,24 @@ Cette vue croisée facilite la détection d’anomalies comportementales et la p
 
 
 
+## Structure de repertoire du projet 
+
+projet_banking/
+│
+├── docker/
+│   └── docker-compose.yml
+│
+├── producer/                
+│   ├── producer.py
+│   └── generator.py
+│
+├── consumer/               
+│   |__consumer.py
+│   
+│
+└── README.md
+
+
 
 
 
